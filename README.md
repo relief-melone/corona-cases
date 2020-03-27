@@ -14,3 +14,11 @@ Under Currently selected find the name of the Country in green. You can then use
 ## Deaths and Recoveries
 
 Rows will automatically be filled like the ones under the section Confirmed Cases
+
+### Immediacy of the data
+
+You can always hit Refresh data to get the latest stand from their github database. However this data seems to be a little behind the one on their website and the sheet is not using the REST API which might be a little more up to date
+
+## To Do
+
+Until now you will have to adjust the Range of the Charts manually each day (I am trying to post updates every day though). To do that you will have to select the chart and pull the range out further. However I hope I'll manage to finish up a Macro this weekend that will take care of that automatically.
