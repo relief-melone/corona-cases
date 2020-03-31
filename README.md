@@ -1,5 +1,7 @@
 # Current Corona Cases
 
+![alt text](./readme/header.png "Header")
+
 An Excel Spreadsheet that updates with the current data from John Hopkins [(link to their repo)](https://github.com/CSSEGISandData/COVID-19)
 but offers a little more details about the current situation in each country
 
